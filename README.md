@@ -42,7 +42,11 @@ The Library Management System does not have any external dependencies beyond Pyt
 ## File Structure 
 
 ~ 'google_books_dataset(1).csv': The file that contains 201 books along with their Front matter (title, author, publisher, pages, category, language, rating).
+
 ~ 'T102_P4_booksUI.py': The main file that contains the user interface and orchestrates the interactions with the library management system.
+
 ~ 'T102_P2_add_remove_search_dataset.py': Contains functions related to adding, removing, and searching books in the library.
+
 ~ 'T102_P3_sorting_fun.py': Contains functions for sorting books based on different attributes.
+
 ~ 'T102_P5_load_data.py': Contains functions for loading book data from a file.
