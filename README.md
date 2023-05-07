@@ -2,7 +2,7 @@
 
 The Library Management System is a Python-based command-line application that allows users to manage a library of books. It provides various functionalities such as loading book data, adding and removing books, searching for books based on different criteria, getting all categories for a book title, sorting books, and quitting the program.
 
-##Features
+#Features
 
 ~ Load Data: The system allows users to load book data from a file. The supported file format and structure are specified in the 'T102_P5_load_data.py' file.
 
