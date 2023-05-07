@@ -50,3 +50,11 @@ The Library Management System does not have any external dependencies beyond Pyt
 ~ 'T102_P3_sorting_fun.py': Contains functions for sorting books based on different attributes.
 
 ~ 'T102_P5_load_data.py': Contains functions for loading book data from a file.
+
+## Contributing 
+
+Contributions to the Library Management System are welcome. If you find any issues or have suggestions for improvements, please open an issue or submit a pull request on the project's repository.
+
+## License
+
+The Library Management System is open source and distributed under the MIT License. You are free to modify and distribute the code as per the terms of the license.
