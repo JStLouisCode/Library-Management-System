@@ -13,3 +13,20 @@ The Library Management System is a Python-based command-line application that al
 ~ Get All Categories for Book Title: Users can retrieve all the categories associated with a given book title.
 
 ~ Sort Books: The system allows users to sort the books in the library based on different attributes such as title, rating, publisher, and author. Sorting can be done in ascending or descending order.
+
+## Installation
+
+To use the Library Management System, follow these steps:
+
+1. Ensure you have Python installed on your machine (version 3.5 or above).
+2. Download the following files and place them in the same directory:
+   ~ 'google_books_dataset(1).csv'
+   ~ 'T102_P2_add_remove_search_dataset.py'
+   ~ 'T102_P3_sorting_fun.py'
+   ~ 'T102_P4_booksUI.py'
+   ~ 'T102_P5_load_data.py'
+3. Open a command-line interface and navigate to the directory where the files are located.
+4. Run the following command to start the Library Management System:
+   'python T102_P4_booksUI.py'
+
+
