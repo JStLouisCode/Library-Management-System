@@ -29,4 +29,12 @@ To use the Library Management System, follow these steps:
 4. Run the following command to start the Library Management System:
    'python T102_P4_booksUI.py'
 
+## Usage
 
+Once the Library Management System is running, you can interact with it through the command-line interface. The system will display a menu of available commands and prompt you to enter your choice. Follow the on-screen instructions to perform various actions such as loading data, adding and removing books, searching for books, getting all categories for a book title, sorting books, and quitting the program.
+
+Make sure to provide the required input in the specified format when prompted. Invalid inputs will be handled by displaying appropriate error messages.
+
+## Dependencies 
+
+The Library Management System does not have any external dependencies beyond Python itself. It is built using Python's standard library and does not require any additional packages or modules.
