@@ -4,15 +4,15 @@ The Library Management System is a Python-based command-line application that al
 
 ## Features
 
-~ Load Data: The system allows users to load book data from a file. The supported file format and structure are specified in the 'T102_P5_load_data.py' file.
+* Load Data: The system allows users to load book data from a file. The supported file format and structure are specified in the 'T102_P5_load_data.py' file.
 
-~ Add and Remove Books: Users can add new books to the library by providing details such as title, author, language, publisher, rating, pages, and category. They can also remove books from the library based on the title and category.
+* Add and Remove Books: Users can add new books to the library by providing details such as title, author, language, publisher, rating, pages, and category. They can also remove books from the library based on the title and category.
 
-~ Search Books: Users can search for books in the library using various criteria, including title, rating, author, publisher, and category. The system provides functions to retrieve books that match the specified criteria.
+* Search Books: Users can search for books in the library using various criteria, including title, rating, author, publisher, and category. The system provides functions to retrieve books that match the specified criteria.
 
-~ Get All Categories for Book Title: Users can retrieve all the categories associated with a given book title.
+* Get All Categories for Book Title: Users can retrieve all the categories associated with a given book title.
 
-~ Sort Books: The system allows users to sort the books in the library based on different attributes such as title, rating, publisher, and author. Sorting can be done in ascending or descending order.
+* Sort Books: The system allows users to sort the books in the library based on different attributes such as title, rating, publisher, and author. Sorting can be done in ascending or descending order.
 
 ## Installation
 
@@ -20,11 +20,11 @@ To use the Library Management System, follow these steps:
 
 1. Ensure you have Python installed on your machine (version 3.5 or above).
 2. Download the following files and place them in the same directory:
-   ~ 'google_books_dataset(1).csv'
-   ~ 'T102_P2_add_remove_search_dataset.py'
-   ~ 'T102_P3_sorting_fun.py'
-   ~ 'T102_P4_booksUI.py'
-   ~ 'T102_P5_load_data.py'
+   * 'google_books_dataset(1).csv'
+   * 'T102_P2_add_remove_search_dataset.py'
+   * 'T102_P3_sorting_fun.py'
+   * 'T102_P4_booksUI.py'
+   * 'T102_P5_load_data.py'
 3. Open a command-line interface and navigate to the directory where the files are located.
 4. Run the following command to start the Library Management System:
    'python T102_P4_booksUI.py'
@@ -41,15 +41,15 @@ The Library Management System does not have any external dependencies beyond Pyt
 
 ## File Structure 
 
-~ 'google_books_dataset(1).csv': The file that contains 201 books along with their Front matter (title, author, publisher, pages, category, language, rating).
+* 'google_books_dataset(1).csv': The file that contains 201 books along with their Front matter (title, author, publisher, pages, category, language, rating).
 
-~ 'T102_P4_booksUI.py': The main file that contains the user interface and orchestrates the interactions with the library management system.
+* 'T102_P4_booksUI.py': The main file that contains the user interface and orchestrates the interactions with the library management system.
 
-~ 'T102_P2_add_remove_search_dataset.py': Contains functions related to adding, removing, and searching books in the library.
+* 'T102_P2_add_remove_search_dataset.py': Contains functions related to adding, removing, and searching books in the library.
 
-~ 'T102_P3_sorting_fun.py': Contains functions for sorting books based on different attributes.
+* 'T102_P3_sorting_fun.py': Contains functions for sorting books based on different attributes.
 
-~ 'T102_P5_load_data.py': Contains functions for loading book data from a file.
+* 'T102_P5_load_data.py': Contains functions for loading book data from a file.
 
 ## Contributing 
 
